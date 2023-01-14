@@ -1,3 +1,4 @@
+/* frame 01 */
 *{
     font-family: Work Sans ;
     font-style: normal;
@@ -8,7 +9,6 @@
     background-image: url(../images/banner/banner2.png);
     width: 1600px;
     height: 809px;
-   
 }
 .banner{
    text-align: right;
@@ -42,6 +42,48 @@
     left: 1210px;
     top: 578px;
 }
-.image01{
+/* frame 02 */
+.part02{  
+    display:flex;
     
+}
+.details-list{ 
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+    
+}
+.image02{
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.failures{
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+.failing-description{
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.list{
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
 }
