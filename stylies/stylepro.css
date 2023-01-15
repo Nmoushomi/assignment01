@@ -16,24 +16,18 @@
     color: crimson;
  }
 .banner-title{
-    /* width: 525px; */
     margin-right: 50px;
    height: 228px;
    left: 845px;
    top: 216px;
    font-weight: 700;
    font-size: 65px;
-   /* line-height: 76px; */
    color: #151414;
    margin-bottom: 30px;
  }
  .banner-description{
-    /* width: 494px; */
     margin-right: 50px;
     height: 80px;
-    /* left: 876px; */
-    /* top: 468px; */
-    /* font-weight: 500; */
     font-size: 20px;
     line-height: 30px;
     color: #444343; 
@@ -44,11 +38,9 @@
     padding: 20px 10px;
     text-align: center;
     width: 160px;
-    /* height: 64px; */
-    /* left: 1210px; */
-    /* top: 50px; */
     margin-right: 50px;
     font-size: 20px;
+    margin-top: 20px;
 }
 .part02{  
     display:flex;
@@ -65,43 +57,28 @@
     
 }
 .failures{
-    /* width: 288px; */
-    /* height: 94px; */
-    /* left: 862px; */
-    /* top: 1178px; */
-    /* font-weight: 700; */
     font-size: 40px;
-    /* line-height: 47px; */
     color: #151414;
 }
 .failing-description{
     margin-top: 30px;
     margin-bottom: 20px;
-    /* width: 416px; */
-    /* height: 104px; */
-    /* left: 862px; */
-    /* top: 1296px; */
     font-weight: 400;
     font-size: 20px;
     text-align: justify;
-    /* line-height: 26px; */
     color: #444343;
 }
 .list{
     list-style-type: none;
     position: absolute;
     text-align: justify;
-    /* width: 349px;
-    height: 162px;
-     left: 862px; 
-    top: 1416px; */
 }
 .Plan{
     text-align: center;
     margin-top: 130px;
     margin-bottom: 50px;
     font-weight: 600;
-   font-size: 40px;
+    font-size: 40px;
 }
 .skill-container{
     text-align: center;
@@ -121,3 +98,70 @@
     font-size: 20px;
     font-weight: 400;
 }
+.part04{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1140px;
+    height: 200px;
+    border-radius: 8px;
+    margin-left: 180px;
+    margin-right: 200px;
+    margin-top: 124px;
+    margin-bottom: 130px;
+    
+}
+.advice{
+    margin-left: 200px;
+    color: rgb(251, 77, 3);
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 200px;
+    margin-bottom: 24px;
+    margin-left: 20px;
+    margin-right: 800px;
+}
+.btn-secondary{
+    margin-left: 200px;
+    color: rgb(237, 41, 19);
+    font-size: 20px;
+    font-weight: 200;
+    padding: 10px 25px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 800px;
+}
+.part05{
+    color: #151414;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    background-color: #151414;   
+}
+.ending02{
+    color: aliceblue;
+    margin-left: 500px;
+    margin-right: 230px;
+    font-size: 15px;
+    margin-top: 30px;
+} 
+.btn{
+    margin-top: 10px;
+    background-color: crimson;
+}
+
+.ending{
+    color: aliceblue;
+    margin-left: 230px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.conclution{
+    margin-bottom: 20px;
+}
+.section-title{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+  
