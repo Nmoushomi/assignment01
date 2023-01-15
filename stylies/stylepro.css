@@ -1,0 +1,123 @@
+*{
+    font-family: Work Sans;
+    margin: 0;
+    font-style: normal;
+}
+.frame01{
+    background-image: url(../images/banner/banner2.png);
+    width: 1600px;
+    height: 809px;
+    margin: 0;
+}
+.banner{
+    text-align: right;
+ }
+ .look{
+    color: crimson;
+ }
+.banner-title{
+    /* width: 525px; */
+    margin-right: 50px;
+   height: 228px;
+   left: 845px;
+   top: 216px;
+   font-weight: 700;
+   font-size: 65px;
+   /* line-height: 76px; */
+   color: #151414;
+   margin-bottom: 30px;
+ }
+ .banner-description{
+    /* width: 494px; */
+    margin-right: 50px;
+    height: 80px;
+    /* left: 876px; */
+    /* top: 468px; */
+    /* font-weight: 500; */
+    font-size: 20px;
+    line-height: 30px;
+    color: #444343; 
+    margin-bottom: 30px;
+}
+.btn-primary{
+    background-color:crimson;
+    padding: 20px 10px;
+    text-align: center;
+    width: 160px;
+    /* height: 64px; */
+    /* left: 1210px; */
+    /* top: 50px; */
+    margin-right: 50px;
+    font-size: 20px;
+}
+.part02{  
+    display:flex;
+    max-width: 1072px 730px; 
+    margin-top: 91px;
+    margin-left: 206px;
+    margin-right: 322px;
+    text-align: center;
+}
+.list-details{
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 50px;
+    
+}
+.failures{
+    /* width: 288px; */
+    /* height: 94px; */
+    /* left: 862px; */
+    /* top: 1178px; */
+    /* font-weight: 700; */
+    font-size: 40px;
+    /* line-height: 47px; */
+    color: #151414;
+}
+.failing-description{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    /* width: 416px; */
+    /* height: 104px; */
+    /* left: 862px; */
+    /* top: 1296px; */
+    font-weight: 400;
+    font-size: 20px;
+    text-align: justify;
+    /* line-height: 26px; */
+    color: #444343;
+}
+.list{
+    list-style-type: none;
+    position: absolute;
+    text-align: justify;
+    /* width: 349px;
+    height: 162px;
+     left: 862px; 
+    top: 1416px; */
+}
+.Plan{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 50px;
+    font-weight: 600;
+   font-size: 40px;
+}
+.skill-container{
+    text-align: center;
+     display:flex;
+    gap: 10px;
+    justify-content: space-evenly;max-width: 1030px 300px;
+    margin: 10px;
+    
+}
+.skill-title{
+    margin: 20px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.skill-description{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
